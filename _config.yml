@@ -39,7 +39,9 @@ favicon: "/img/favicon.ico"
 # Header layout #
 ################
 
-black-favicon: "/img/black-lab-glass.ico"
+black-favicon: "fa-lemon-o"
+
+icon-provider: "fa"
 
 background-img: "../img/intro-bg.jpg"
 
@@ -56,7 +58,10 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Re did doo."
-  - text: "What am I supposed to do?"
+  - text: "What am I supposed to say?"
+  - text: "Oh HI!"
+  - text: "I've a goooooood feeling about this!"
+  - text: "For the HORDE!"
 
 me-img: "/img/jetpacktocat.png"
 
